@@ -1,0 +1,500 @@
+   29  ls
+   30  git init
+   31  touch index.index
+   32  git status
+   33  git commit
+   34  git commit -m "segundaPratica"
+   35  mkdir Estudo3
+   36  cd Estudo3
+   37  ls
+   38  git init
+   39  touch index.doc
+   40  git status
+   41  git commit
+   42  git commit -m "terceiraVezFazendo"
+   43  rmdir Estudo
+   44  cd Estudo
+   45  rmdir Estudo3
+   46  cd Estudo
+   47  cat index
+   48  cat Estudo
+   49  rm index
+   50  git config --global user.name
+   51  git config user.email
+   52   cd projetoInicial
+   53  git init
+   54  git status
+   55  git add olaGit.text
+   56  git add olaGit
+   57  rmdir gitHub
+   58  cd gitHub
+   59  rmdir gitHub
+   60  mkdir Estudar
+   61  cd Estu
+   62  cd Estudar
+   63  ls
+   64  git init
+   65  touch index.text
+   66  git status
+   67  git add
+   68  git cinfig advice.addEmptPathspec false
+   69  git --help
+   70  git status
+   71  git "add"
+   72  mkadir Estudar
+   73  mkdir "Estudar"
+   74  cd "Estudar"
+   75  ls
+   76  git "init"
+   77  touch "index.text"
+   78  git "status"
+   79  git "add"
+   80  git commit -m "estou a penas a exercitar"
+   81  git status
+   82  git add .
+   83  git status
+   84  mkdir "Estudar"
+   85  cd "Estudar"
+   86  ls
+   87  touch index.txt
+   88  rm index.txt
+   89  git init
+   90  touch index.txt
+   91  git status
+   92  git add "index.txt"
+   93  git status
+   94  git commit -m "segundo dia de exercios"
+   95  git status
+   96  git config user.name
+   97  git config user.email
+   98  cd projectoInicial
+   99  git init
+  100  git status
+  101  git add olaGit.txt
+  102  git status
+  103  git status
+  104  git commit -m "iniciei meu projecto"
+  105  git status
+  106  git status
+  107  git add olaGit.txt
+  108  git status
+  109  git commit -m "adicionei linhas no meu arquivo"
+  110  git status
+  111  git log
+  112  cd fazerSozinho
+  113  cd fazerSozinho
+  114  cd fazendoSozinho
+  115  ls
+  116  git init
+  117  touch index.txt
+  118  git status
+  119  git add index.txt
+  120  git status
+  121  git add index.txt
+  122  git status
+  123  git commit -m "sem instrução"
+  124  git status
+  125  git log
+  126  kdir git
+  127  clear
+  128  mkdir git
+  129  cd git
+  130  touch arquivo.txt
+  131  coud .
+  132  cod .
+  133  clear 
+  134  code .
+  135  git status
+  136  git init
+  137  git status
+  138  git add
+  139  git add .
+  140  git status
+  141  git commit -m numero1
+  142  git commit -m "numero"
+  143  git status
+  144  git add .
+  145  git status
+  146  git commit -m "vamosquevamos"
+  147  git log
+  148  git add .
+  149  git commit -m "terceiroCommit"
+  150  git status
+  151  git log
+  152  clear
+  153  git log
+  154  git checkout  6f38f5cd55562b532bbc1c8df8922d1b05ebc3d1
+  155  cd ..
+  156  cd git
+  157  git branch 5b524fbfac3c26888b2bd6788757b7030f16c12a
+  158  git branch
+  159  git chackout master
+  160  git chekout
+  161  git checkout master
+  162  git branch
+  163  git branch -d 5b524fbfac3c26888b2bd6788757b7030f16c12a
+  164  git branch
+  165  git checkout branch
+  166  git branch
+  167  git push
+  168  clear
+  169  mkdir Revisando
+  170  cd Revisando
+  171  touch arquivo.txt
+  172  ls
+  173  git init
+  174  git status
+  175  git add .
+  176  git commit -m "exercitar brench"
+  177  git status
+  178  git add .
+  179  git status 
+  180  git log
+  181  git branch Revisando2
+  182  git branch
+  183  git log
+  184  git chekcout master
+  185  git checkout master
+  186  ls
+  187  git chekout Revindo2
+  188  git checkout Revisando2
+  189  git commit -m arquivo.txt
+  190  git add .
+  191  ls
+  192  git log
+  193  git branch
+  194  clear
+  195  git log
+  196  cod .
+  197  git cod .
+  198  clear
+  199  git branch
+  200  git chackout master
+  201  git checkout master
+  202  cd Revisando
+  203  git status
+  204  git checkout -d Revisando2
+  205  git branch -d Revisando2
+  206  git branch
+  207  git log
+  208  git commit -m "procurando o comando para abrir o virtual studio code"
+  209  status
+  210  git status
+  211  git add .
+  212  git statuss
+  213  git status
+  214  git log
+  215  git add .
+  216  git status
+  217  git log
+  218  git checkout 2946a54db1ed80c6464b81a0e6fa63f8f2d76bbf
+  219  git commit -m "fazendo brench"
+  220  git add .
+  221  git status
+  222  git log
+  223  git add .
+  224  git status
+  225  git log
+  226  clear
+  227  git log
+  228  git brench
+  229  git branch
+  230  git branch master
+  231  git checkout master
+  232  clear
+  233  touch novoarquivo.tt
+  234  rm novoarquivo.tt
+  235  ls
+  236  touch novoarquivo.txt
+  237  git add .
+  238  git commit "quase la"
+  239  git commit -m "quase la"
+  240  git status
+  241  git log
+  242  git checkout 2946a54db1ed80c6464b81a0e6fa63f8f2d76bbf 
+  243  git commit -m "preciso aprender"
+  244  git status
+  245  git log
+  246  ls
+  247  cd Revisnado
+  248  ls
+  249  clearz
+  250  clear
+  251  cat arquivo.txt
+  252  ls
+  253  clear
+  254  mkdir Diretorio2
+  255  cd Diretorio2
+  256  git init
+  257  git add .
+  258  touch arquivo.index
+  259  ls
+  260  git add arquivo.index
+  261  git commit -m "abri novo diretorio"
+  262  git status
+  263  git log
+  264  git config
+  265  clear
+  266  git config
+  267  clear
+  268  git config username
+  269  git config user name
+  270  clear
+  271  mkdir Diretorio1
+  272  cd diretorio1
+  273  git init
+  274  touch arquivo.tt
+  275  git status
+  276  git add .
+  277  git commit -m "primeiro comentario"
+  278  git log
+  279  code .
+  280  git add .
+  281  git status
+  282  git log
+  283  clear
+  284  mkdir Diretorio1
+  285  cd Diretorio1
+  286  git init
+  287  clear
+  288  clear
+  289  clear
+  290  touch arquivo.tst
+  291  rm arquivo.tst 
+  292  ls
+  293  touch arquivo.txt
+  294  git add .
+  295  git status
+  296  git commit -m "primeiro comentario" 
+  297  git status
+  298  clear
+  299  git log
+  300  code .
+  301  git status
+  302  git add .
+  303  git status
+  304  git restore --staged arquivo.txt
+  305  git status
+  306  git checkout arquivo.txt 
+  307  git  status
+  308  git status
+  309  git add .
+  310  git commit -m "segundo comentario"
+  311  git log
+  312  git log --graph
+  313  git branch branch2
+  314  git branch
+  315  git checkout master
+  316  git checkout branch2
+  317  touch arquivoDabranch2.txt
+  318  clear
+  319  git status
+  320  git add .
+  321  git commit -m "primeiro comentario"
+  322  git checkout master
+  323  touch segundoArquivo.txt
+  324  git status
+  325  git add .
+  326  git commit -m "primeiro comentario desse arquivo"
+  327  git log
+  328  git log --graph
+  329  git merge branch2
+  330  git log --graph
+  331  cd Diretorio1
+  332  ls
+  333  log
+  334  git log
+  335  dc Diretorio1
+  336  ls
+  337  git init
+  338  touch arquivo.txt
+  339  git commit -m "criei esse arquivo depois de uma semana sem praticar"
+  340  branch
+  341  branch master
+  342  ls
+  343  clear
+  344  git init
+  345  ls
+  346  ls -a
+  347  clear
+  348  pwd
+  349  ls
+  350  cd master
+  351  cd ..
+  352  clear
+  353  git init
+  354  git init
+  355  mkdir
+  356  mkdir codigo
+  357  clear
+  358  ls
+  359  clear
+  360  git init
+  361  cd
+  362  ls
+  363  clear
+  364  mkdir codigo
+  365  cd
+  366  ls
+  367  cd
+  368  lera
+  369  clear
+  370  cd codigo
+  371  ls
+  372  touch clear
+  373  clear
+  374  cd ..
+  375  cd codigo
+  376  ls
+  377  rm -r clear
+  378  ls
+  379  touch toti.text
+  380  ls
+  381  ls
+  382  git status
+  383  clear
+  384  ls
+  385  code .
+  386  clear
+  387  rm -r codigo
+  388  clear
+  389  git init
+  390  touch comando 
+  391  cd comando
+  392  ls
+  393  clear
+  394  rm -r toti.text
+  395  ls
+  396  rm -r comando
+  397  git status
+  398  ls
+  399  mkdir comando
+  400  cd ..
+  401  ls
+  402  cd comando
+  403  clear
+  404  ls
+  405  cd comando
+  406  git status
+  407  clear
+  408  ls
+  409  clear
+  410  git init
+  411  mkdir comando
+  412  cd comando
+  413  ls
+  414  touch novo.text
+  415  git status
+  416  code novo.text
+  417  cd ..
+  418  l
+  419  ls
+  420  clear
+  421  rm -r comando
+  422  rm -m novo.text
+  423  ls
+  424  clear
+  425  pwd
+  426  clear
+  427  clear
+  428  cd ..
+  429  rm -r
+  430  clear
+  431  ls
+  432  clear
+  433  pwd
+  434  pwd
+  435  mkdir estudi_gitclear
+  436  mr r- estudi_gitclear
+  437  clear
+  438  pwd
+  439  ls
+  440  clear
+  441  ls -la
+  442  rm -rf .git
+  443  cd ..
+  444  cd ..
+  445  cd onedrive
+  446  rm -rf .git
+  447  clear
+  448  cd areaclear
+  449  clear
+  450  mkdir estudo.git
+  451  cd estudo.git
+  452  git init
+  453  touch arquivo_1.text arquivo_2.html 
+  454  ls
+  455  git status
+  456  git add .
+  457  git status
+  458  clear
+  459  git commit -m "criei dois arquivos para o inicio do proecto"
+  460  git status
+  461  git remot add upstream https://github.com/walterlopescassule/estudo-git-Toti.git
+  462  git push -u upstream master
+  463  git  remote add upstream https://github.com/walterlopescassule/estudo-git-Toti.git
+  464  git push -u upstream master 
+  465  clear
+  466  cd ..
+  467  clear
+  468  git status
+  469  clear
+  470  cd estudo.git
+  471  git status
+  472  git add .
+  473  git status
+  474  git commit -m "fiz comentarios no arquivo-1.text"
+  475  git status
+  476  git push
+  477  ls 
+  478  touch arquivo-3.text
+  479  ls
+  480  git status
+  481  pwd
+  482  git add .
+  483  git status
+  484  ls
+  485  commit -m "o arquivo-3, ira servir de espaço que eu seja um pouco mais atrevido nos meus estudos"
+  486  clear
+  487  git push
+  488  clear
+  489  cat arquivo-3
+  490  ls
+  491  git status
+  492  git restore --staged arquivo-3.text
+  493  git status
+  494  git add arquivo-3.text
+  495  git status
+  496  git commit -m "arquivo para novos desafios"
+  497  git push
+  498  clear]
+  499  git status
+  500  clear
+  501  pwd
+  502  mkdir curso_git_toti
+  503  cd curso_git_toti
+  504  git init
+  505  echo '#aprendendo a usar o git' > readme.md
+  506  git status
+  507  git add readme.md
+  508  git status
+  509  git commit -m "commit inicial"
+  510  git status
+  511  echo '##aula 1' >> readme.md
+  512  git status
+  513  echo '#walter' > participantes.text
+  514  git status
+  515  git edd .
+  516  git status
+  517  git add .
+  518  git status
+  519  git restore --staged .
+  520  git status
+  521  git commit -am 'alterção no readme.md'
+  522  git status
+  523  git add participantes.text
+  524  git status
+  525  git commit -m 'adicionado participantes.text'
+  526  git status
+  527  ls
+  528  history > aula_3_t0ti.text
